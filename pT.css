@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px solid red; */
+}
+
+.page{
+    width: 1000px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bar{
+    height: 50px;
+    width: 1000px;
+    
+    
+}
+
+.network{
+    background-color: black;
+    color: cornsilk;
+}
+
+.row{
+    display: flex;
+    
+}
+.box{
+    flex: 50%;
+    padding: 10px;
+}
+.yourFeed{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avitra{
+    height: 300px;
+    width: 200px;
+    border: darkslateblue solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 28px;
+}
+
+.line-up{
+    display: flex;
+    align-items: center;
+}
+.line-up2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.name{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border: darkslateblue solid;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+    padding-left: 25px;
+}
+
+    .spacing{
+        margin: 0px 40px 0px 40px;
+        display: flex;
+}
+
+img{
+    height: 75px;
+    width: 75px;
+}
+
+.comment{
+    display: flex;
+}
+
+button{
+    background-color: yellowgreen;
+    box-shadow: grey 3px 3px;
+
+}
+

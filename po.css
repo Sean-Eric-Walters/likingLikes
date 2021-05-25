@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px solid red; */
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 350px;
+    border: gray solid;
+    padding: 20px;
+    margin: 30px;
+}
+
+
+
+
+
+
+.button{
+    height: 25px;
+    width: 55px;
+    padding-top: ;
+    border-radius: 50%;
+    background-color: red;
+    color: seashell;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    width: 300px;
+    padding-bottom: 30px;
+}
+
+
+}
